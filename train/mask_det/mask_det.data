@@ -1,0 +1,5 @@
+classes= 2
+train  = /content/darknet/train/mask_det/train.txt
+valid  = /content/darknet/train/mask_det/valid.txt
+names = /content/darknet/train/mask_det/mask_det.names
+backup = /content/darknet/train/mask_det/weights/
